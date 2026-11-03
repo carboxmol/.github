@@ -7,6 +7,7 @@
 <br/>
 
 [![Live Studio](https://img.shields.io/badge/🌐_Live_Studio-carboxmol.github.io-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carboxmol.github.io)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-carboxmol.readthedocs.io-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://carboxmol.readthedocs.io/)
 [![Organization](https://img.shields.io/badge/GitHub_Org-@carboxmol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carboxmol)
 [![Private Data Access](https://img.shields.io/badge/🔒_Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Private%20Data%20%26%20Repository%20Access%20Request%20-%20CarboxMol)
 [![Contact](https://img.shields.io/badge/📧_Contact-suleyman.hacizade1%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com)
@@ -22,14 +23,58 @@
 > [!IMPORTANT]
 > ### 🔒 Məxfi Məlumatlar və Giriş İcazəsi / Private Data & Repository Access Notice
 >
-> **🇦🇿 Azərbaycanca:** Bu təşkilatdakı bütün elmi məlumat bazaları (data), 7,230+ yüksək ayırdetməli PDB skrininq matrisaları, $2mF_o - DF_c$ və $mF_o - DF_c$ elektron sıxlığı xəritələri, əsas mənbə kodları (`carboxmol` və `carbox`), daxili 62+ sənədlik elmi bilik bazası (LLM Wiki) və nəşrəqədərki tədqiqat əlyazmaları **məxfidir (Private)**. Əgər elmi tədqiqat, rəy və ya əməkdaşlıq məqsədilə bu məlumatlara və ya qapalı repozitoriyalara giriş (`access`) əldə etmək istəyirsinizsə, aşağıdakı elektron poçt ünvanına müraciət edə bilərsiniz:  
+> **🇦🇿 Azərbaycanca:** Bu təşkilatdakı bütün elmi məlumat bazaları (data), 7,230+ yüksək ayırdetməli PDB skrininq matrisaları, $2mF_o - DF_c$ və $mF_o - DF_c$ elektron sıxlığı xəritələri, əsas mənbə kodları (`carboxmol` və `carbox`), daxili 64+ sənədlik elmi bilik bazası (LLM Wiki) və nəşrəqədərki tədqiqat əlyazmaları **məxfidir (Private)**. Əgər elmi tədqiqat, rəy və ya əməkdaşlıq məqsədilə bu məlumatlara və ya qapalı repozitoriyalara giriş (`access`) əldə etmək istəyirsinizsə, aşağıdakı elektron poçt ünvanına müraciət edə bilərsiniz:  
 > 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20CarboxMol%20Private%20Data%20%26%20Repositories)**
 >
-> **🇬🇧 English:** All raw crystallographic datasets, full 7,230+ PDB screening matrices, $2mF_o - DF_c$ and $mF_o - DF_c$ electron density caches, core source repositories (`carboxmol` and `carbox`), internal 62+ note LLM research knowledge base, and pre-publication manuscripts housed in this organization are **strictly Private**. If you are a researcher, academic reviewer, or collaborator and wish to obtain access to the private data or repositories, please submit a request via email:  
+> **🇬🇧 English:** All raw crystallographic datasets, full 7,230+ PDB screening matrices, $2mF_o - DF_c$ and $mF_o - DF_c$ electron density caches, core source repositories (`carboxmol` and `carbox`), internal 64+ note LLM research knowledge base, and pre-publication manuscripts housed in this organization are **strictly Private**. If you are a researcher, academic reviewer, or collaborator and wish to obtain access to the private data or repositories, please submit a request via email:  
 > 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20CarboxMol%20Private%20Data%20%26%20Repositories)**
 >
 > **🇮🇱 עברית:** כל מאגרי הנתונים הקריסטלוגרפיים הגולמיים, מפות צפיפות האלקטרונים, מאגרי קוד המקור (`carboxmol` ו-`carbox`) וכתבי היד המדעיים בארגון זה הינם **פרטיים (Private)**. אם ברצונכם לקבל גישה (`access`) לנתונים או למאגרים הפרטיים לצורכי מחקר אקדמי או שיתוף פעולה, ניתן לפנות בדוא"ל:  
 > 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20CarboxMol%20Private%20Data%20%26%20Repositories)**
+
+---
+
+## 📚 Rəsmi Sənədləşmə Portalı (Read the Docs) / Official Documentation
+
+Rəsmi elmi və texniki sənədləşmə portalımız **Read the Docs** üzərində canlı yayımlanır:  
+👉 🌐 **[https://carboxmol.readthedocs.io/](https://carboxmol.readthedocs.io/)** *(və ya core kitabxana üçün: [https://carbox.readthedocs.io/](https://carbox.readthedocs.io/))*
+
+### 📖 Read the Docs Sənədləşmə Saytında Nələr Mövcuddur? / What is Available on the Docs Site?
+
+Read the Docs portalımız Carbox & CarboxMol platformasının tam nəzəri, alqoritmik, biofiziki və kristalloqrafik təlimatlarını özündə cəmləşdirən interaktiv ensiklopediyadır:
+
+1. 🌍 **100% Üçdilli Tam Paritet (Trilingual Parity):**
+   - **İngilis dili (🇬🇧 English):** Qlobal kristalloqrafiya və bioinformatika icması üçün beynəlxalq standart dərsliklər və API sənədləri.
+   - **Azərbaycan dili (🇦🇿):** Bütün alqoritmlərin, riyazi düsturların və istifadə qaydalarının ana dilimizdə tam akademik izahı.
+   - **İvrit dili (🇮🇱 עברית RTL):** Sağdan-sola oxunan tam lokalizasiya edilmiş sənədləşmə.
+
+2. 🔬 **Elmi Nəzəriyyə və Biofiziki Prinsiplər:**
+   - **Anomal Karboksil Protonlaşması:** Zülalların hidrofob nüvələrindəki neytral Aspartat (`ASH`) və Qlutamat (`GLH`) hallarının yaranma mexanizmi.
+   - **Aşağı Baryerli Hidrogen Rabitələri (LBHB):** $d(O\cdots O) \le 2.55\text{ \AA}$ məsafəsində protonun iki oksigen arasında kvazi-kovalent delokalizasiyası və tək quyulu potensial enerji səthi.
+   - **Dielektrik Qalxanlanması və Born Desolvasiyası:** Su molekullarından təcrid olunmuş ciblərdə lokal dielektrik sabitinin ($\varepsilon_{\text{eff}} \approx 2\text{--}4$) Kulon itələməsini 20 dəfə artırması və $\Delta \mathrm{p}K_a \ge +2.0$ sürüşməsi.
+
+3. 🚦 **Qərib Mürşüdovun 6 Mərhələli Kristalloqrafik Filtrasiya Protokolu:**
+   - **Stage 1 (Həndəsi Skrininq):** $d \le 1.20\text{ \AA}$ ayırdetmə və $d(O\cdots O) \le 3.20\text{ \AA}$ məsafə kontaktları.
+   - **Stage 2 (Əsas Hal Qanunu — $occ = 1.00$):** Natamam paylanma və alternativ konformasiya (`AltLoc A/B`) xətalarının ləğv edilməsi.
+   - **Stage 3 (İstilik Hərəkəti və B-Faktor Auditi):** Standartlaşdırılmış $B_z \le 5.0\sigma$ və Tukey qeyri-parametrik IQR hədləri.
+   - **Stage 4 (Elektron Sıxlığı və RSCC Sınağı):** $2mF_o - DF_c$ xəritəsində $\text{RSCC} \ge 0.80$ və $mF_o - DF_c$ fərq sıxlığında $\pm 3.0\sigma$ limitləri.
+   - **Stage 5 (Metal Koordinasiyası və pKa Təhlili):** 70 növ metal kationunun koordinasiya sferasından kənarlaşdırılması.
+   - **Stage 6 (Restraint Kartlarının Çatdırılması):** REFMAC5 və Servalcat üçün zərifləşdirmə kartlarının generasiyası.
+
+4. 📐 **Kristalloqrafik Zərifləşdirmə və REFMAC5 / Servalcat Kartları:**
+   - Standart van der Waals toqquşma xətalarını aradan qaldıran AceDRG uyğun `exte dist ... alph 2` kartlarının formatlanması və tətbiqi.
+   - Barron adaptiv itki funksiyası ilə sub-anqstrem və Cryo-EM modellərinin dəqiqləşdirilməsi.
+
+5. 💻 **Python API və Proqramlaşdırma Referansı:**
+   - `carbox.stages.runner` — CLI orkestratorunun istifadə qaydaları.
+   - `carbox.analysis` və `carbox.density` modullarının tam funksiya və sinif sənədləşməsi.
+   - `.cxl` (Carbox Crystallographic Language) makro skriptləşdirmə təlimatı.
+   - `server.py` işçi stansiya REST API-ləri və 3D WebGL Studio inteqrasiyası.
+
+6. 📑 **Master Manual, Memorandiumlar və Sitat Formatları:**
+   - Tam həcmli `CARBOX_MASTER_MANUAL` texniki təlimatı.
+   - BibTeX, APA və RIS formatlarında rəsmi elmi istinad qeydləri.
+   - Daxili axtarış motoru (Server-Side Full-Text Search) və oflayn oxu formatları (PDF / ePub).
 
 ---
 
@@ -70,7 +115,7 @@ carboxmol (GitHub Organization)
 │   ├── 3D WebGL kristalloqrafik qrafika mühərriki və yerli Python serveri (server.py)
 │   ├── Xam kristalloqrafik məlumat bazaları, elektron sıxlığı keşləri və 6-mərhələli boru xətti nəticələri
 │   ├── REFMAC5 / Servalcat bağlama (restraints) generatoru və .cxl avtomatlaşdırma makroları
-│   ├── 62+ sənədlik daxili LLM elmi bilik bazası (Wiki) və LaTeX monoqrafiya əlyazmaları
+│   ├── 64+ sənədlik daxili LLM elmi bilik bazası (Wiki) və LaTeX monoqrafiya əlyazmaları
 │   └── 📩 Giriş üçün müraciət / Request Access: suleyman.hacizade1@gmail.com
 │
 ├── 🔒 carbox (Private Mathematical Core Engine — Access by Request)
@@ -83,15 +128,20 @@ carboxmol (GitHub Organization)
 │   ├── 🌟 Rəsmi URL: https://carboxmol.github.io
 │   └── İctimai veb portal, status bildirişi, akademik istinad və əlaqə məlumatları
 │
+├── 📚 Read the Docs Documentation (Public Comprehensive Portal)
+│   ├── 🌟 Rəsmi URL: https://carboxmol.readthedocs.io
+│   └── Çoxdilli sənədləşmə, nəzəriyyə, 6 mərhələli təlimat, API bələdçisi və axtarış
+│
 └── ⚙️ .github (Public Organization Profile)
     └── Təşkilatın rəsmi profili, məxfi məlumat siyasəti və müraciət qaydaları
 ```
 
-| Repozitoriya | Status / Giriş | Təsvir / Description | Əlaqə / Keçid |
+| Repozitoriya / Portal | Status / Giriş | Təsvir / Description | Əlaqə / Keçid |
 | :--- | :---: | :--- | :---: |
+| 📚 [**Read the Docs**](https://carboxmol.readthedocs.io/) | `🌐 Public` | **Carbox & CarboxMol Rəsmi Sənədləşməsi** — Çoxdilli (EN, AZ, HE RTL) dərsliklər, 6-mərhələli protokol, nəzəriyyə, API və REFMAC5 təlimatları. | [Sənədləşmə Portalı](https://carboxmol.readthedocs.io/) |
+| 🌐 [**carboxmol.github.io**](https://github.com/carboxmol/carboxmol.github.io) | `🌐 Public` | **CarboxMol Official Web Portal** — Rəsmi veb portal, platforma yenilənmə statusu, müəllif məlumatları və müraciət keçidləri. | [Veb Portal](https://carboxmol.github.io) |
 | 🖥️ [**carboxmol**](https://github.com/carboxmol/carboxmol) | `🔒 Private` *(Müraciətlə / By Request)* | **CarboxMol Desktop, Server & Datasets** — 3D kristalloqrafik qrafika mühərriki, CCP4/MRC xəritələri, REFMAC5/Servalcat bağlama generatoru, xam tədqiqat dataları və yerli server (`server.py`). | [📧 Giriş İstə (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carboxmol%20Private%20Repository) |
 | 🧮 [**carbox**](https://github.com/project-carbox/carbox) | `🔒 Private` *(Müraciətlə / By Request)* | **Carbox Mathematical Engine & Raw Data** — Yüksək məhsuldarlıqlı struktur mədənçiliyi, analitik LBHB təsnifatı ($d(O\cdots O) \le 2.55\text{ \AA}$), empirik pKa sürüşməsi və atomar Zeta-score mühərriki. | [📧 Giriş İstə (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carbox%20Private%20Repository) |
-| 🌐 [**carboxmol.github.io**](https://github.com/carboxmol/carboxmol.github.io) | `🌐 Public` | **CarboxMol Official Web Portal** — Rəsmi veb portal, platforma yenilənmə statusu, müəllif məlumatları və müraciət keçidləri. | [Veb Portal](https://carboxmol.github.io) |
 | ⚙️ [**.github**](https://github.com/carboxmol/.github) | `🌐 Public` | **Təşkilat Profili və Məlumat Siyasəti** — Təşkilatın rəsmi profil təsviri, məxfi məlumatlara giriş qaydaları və elmi rəhbərlik. | [Profil](https://github.com/carboxmol/.github) |
 
 ---
@@ -138,6 +188,7 @@ Təşkilatdakı bütün xam tədqiqat məlumatları (data) və mənbə kodları 
 
 - **Məsul Tədqiqatçı / Lead Researcher:** Suleiman M. Hajizadeh ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
 - **Elektron Poçt (Data & Repo Access):** 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20CarboxMol%20Private%20Data%20%26%20Repositories)**
+- **Rəsmi Sənədləşmə Portalı:** 📚 **[https://carboxmol.readthedocs.io](https://carboxmol.readthedocs.io)**
 - **Rəsmi Veb Portal:** 🌐 **[https://carboxmol.github.io](https://carboxmol.github.io)**
 
 ---
