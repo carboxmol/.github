@@ -119,13 +119,14 @@ carboxmol (GitHub Organization)
 │   ├── Empirical pKa perturbation engine and comprehensive PDB screening catalogs
 │   └── 📩 Request Access: suleyman.hacizade1@gmail.com
 │
+├── 📚 docs (Public Documentation Repository — Read the Docs Source)
+│   ├── 🌟 GitHub: https://github.com/carboxmol/docs
+│   ├── 🌟 Live Docs: https://carboxmol.readthedocs.io/en/latest/
+│   └── Sphinx source trees, trilingual manuals (EN, AZ, HE RTL), and RTD build triggers
+│
 ├── 🌐 carboxmol.github.io (Public Web Portal)
 │   ├── 🌟 Official URL: https://carboxmol.github.io
 │   └── Public landing portal, maintenance notices, academic citations, and contact links
-│
-├── 📚 Read the Docs Documentation (Public Comprehensive Portal)
-│   ├── 🌟 Official URL: https://carboxmol.readthedocs.io/en/latest/
-│   └── Trilingual documentation, theoretical foundations, 6-stage manual, and API reference
 │
 └── ⚙️ .github (Public Organization Profile)
     └── Public organization profile, data governance policy, and access guidelines
@@ -133,7 +134,7 @@ carboxmol (GitHub Organization)
 
 | Repository / Portal | Status | Description | Access / Link |
 | :--- | :---: | :--- | :---: |
-| 📚 [**Read the Docs**](https://carboxmol.readthedocs.io/en/latest/) | `🌐 Public` | **Carbox & CarboxMol Official Documentation** — Trilingual (EN, AZ, HE RTL) manuals, 6-stage protocol, biophysical theory, API, and REFMAC5 restraints. | [Documentation Portal](https://carboxmol.readthedocs.io/en/latest/) |
+| 📚 [**docs**](https://github.com/carboxmol/docs) | `🌐 Public` | **Documentation Source for Read the Docs** — Trilingual (EN, AZ, HE RTL) Sphinx/MyST manuals powering Read the Docs. | [GitHub Repo](https://github.com/carboxmol/docs) · [Read the Docs](https://carboxmol.readthedocs.io/en/latest/) |
 | 🌐 [**carboxmol.github.io**](https://github.com/carboxmol/carboxmol.github.io) | `🌐 Public` | **CarboxMol Official Web Portal** — Public web presence, maintenance status, citations, and contact information. | [Web Portal](https://carboxmol.github.io) |
 | 🖥️ [**carboxmol**](https://github.com/carboxmol/carboxmol) | `🔒 Private` *(By Request)* | **CarboxMol Desktop, Server & Datasets** — 3D crystallographic graphics engine, CCP4/MRC density maps, REFMAC5/Servalcat restraint generator, raw datasets, and local server (`server.py`). | [📧 Request Access (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carboxmol%20Private%20Repository) |
 | 🧮 [**carbox**](https://github.com/project-carbox/carbox) | `🔒 Private` *(By Request)* | **Carbox Mathematical Engine & Raw Data** — High-throughput contact mining, LBHB classification ($d(O\cdots O) \le 2.55\text{ \AA}$), empirical pKa solver, and atomic Zeta-score engine. | [📧 Request Access (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carbox%20Private%20Repository) |
