@@ -7,7 +7,7 @@
 <br/>
 
 [![Live Studio](https://img.shields.io/badge/🌐_Live_Studio-carboxmol.github.io-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carboxmol.github.io)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-carboxmol.readthedocs.io-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://carboxmol.readthedocs.io/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-carboxmol.readthedocs.io-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://carboxmol.readthedocs.io/en/latest/)
 [![Organization](https://img.shields.io/badge/GitHub_Org-@carboxmol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carboxmol)
 [![Private Data Access](https://img.shields.io/badge/🔒_Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Private%20Data%20%26%20Repository%20Access%20Request%20-%20CarboxMol)
 [![Contact](https://img.shields.io/badge/📧_Contact-suleyman.hacizade1%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com)
@@ -37,7 +37,7 @@
 ## 📚 Rəsmi Sənədləşmə Portalı (Read the Docs) / Official Documentation
 
 Rəsmi elmi və texniki sənədləşmə portalımız **Read the Docs** üzərində canlı yayımlanır:  
-👉 🌐 **[https://carboxmol.readthedocs.io/](https://carboxmol.readthedocs.io/)** *(və ya core kitabxana üçün: [https://carbox.readthedocs.io/](https://carbox.readthedocs.io/))*
+👉 🌐 **[https://carboxmol.readthedocs.io/en/latest/](https://carboxmol.readthedocs.io/en/latest/)** *(və ya core kitabxana üçün: [https://carbox.readthedocs.io/en/latest/](https://carbox.readthedocs.io/en/latest/))*
 
 ### 📖 Read the Docs Sənədləşmə Saytında Nələr Mövcuddur? / What is Available on the Docs Site?
 
@@ -129,7 +129,7 @@ carboxmol (GitHub Organization)
 │   └── İctimai veb portal, status bildirişi, akademik istinad və əlaqə məlumatları
 │
 ├── 📚 Read the Docs Documentation (Public Comprehensive Portal)
-│   ├── 🌟 Rəsmi URL: https://carboxmol.readthedocs.io
+│   ├── 🌟 Rəsmi URL: https://carboxmol.readthedocs.io/en/latest/
 │   └── Çoxdilli sənədləşmə, nəzəriyyə, 6 mərhələli təlimat, API bələdçisi və axtarış
 │
 └── ⚙️ .github (Public Organization Profile)
@@ -138,7 +138,7 @@ carboxmol (GitHub Organization)
 
 | Repozitoriya / Portal | Status / Giriş | Təsvir / Description | Əlaqə / Keçid |
 | :--- | :---: | :--- | :---: |
-| 📚 [**Read the Docs**](https://carboxmol.readthedocs.io/) | `🌐 Public` | **Carbox & CarboxMol Rəsmi Sənədləşməsi** — Çoxdilli (EN, AZ, HE RTL) dərsliklər, 6-mərhələli protokol, nəzəriyyə, API və REFMAC5 təlimatları. | [Sənədləşmə Portalı](https://carboxmol.readthedocs.io/) |
+| 📚 [**Read the Docs**](https://carboxmol.readthedocs.io/en/latest/) | `🌐 Public` | **Carbox & CarboxMol Rəsmi Sənədləşməsi** — Çoxdilli (EN, AZ, HE RTL) dərsliklər, 6-mərhələli protokol, nəzəriyyə, API və REFMAC5 təlimatları. | [Sənədləşmə Portalı](https://carboxmol.readthedocs.io/en/latest/) |
 | 🌐 [**carboxmol.github.io**](https://github.com/carboxmol/carboxmol.github.io) | `🌐 Public` | **CarboxMol Official Web Portal** — Rəsmi veb portal, platforma yenilənmə statusu, müəllif məlumatları və müraciət keçidləri. | [Veb Portal](https://carboxmol.github.io) |
 | 🖥️ [**carboxmol**](https://github.com/carboxmol/carboxmol) | `🔒 Private` *(Müraciətlə / By Request)* | **CarboxMol Desktop, Server & Datasets** — 3D kristalloqrafik qrafika mühərriki, CCP4/MRC xəritələri, REFMAC5/Servalcat bağlama generatoru, xam tədqiqat dataları və yerli server (`server.py`). | [📧 Giriş İstə (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carboxmol%20Private%20Repository) |
 | 🧮 [**carbox**](https://github.com/project-carbox/carbox) | `🔒 Private` *(Müraciətlə / By Request)* | **Carbox Mathematical Engine & Raw Data** — Yüksək məhsuldarlıqlı struktur mədənçiliyi, analitik LBHB təsnifatı ($d(O\cdots O) \le 2.55\text{ \AA}$), empirik pKa sürüşməsi və atomar Zeta-score mühərriki. | [📧 Giriş İstə (`suleyman.hacizade1@gmail.com`)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20carbox%20Private%20Repository) |
@@ -188,7 +188,7 @@ Təşkilatdakı bütün xam tədqiqat məlumatları (data) və mənbə kodları 
 
 - **Məsul Tədqiqatçı / Lead Researcher:** Suleiman M. Hajizadeh ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
 - **Elektron Poçt (Data & Repo Access):** 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20CarboxMol%20Private%20Data%20%26%20Repositories)**
-- **Rəsmi Sənədləşmə Portalı:** 📚 **[https://carboxmol.readthedocs.io](https://carboxmol.readthedocs.io)**
+- **Rəsmi Sənədləşmə Portalı:** 📚 **[https://carboxmol.readthedocs.io/en/latest/](https://carboxmol.readthedocs.io/en/latest/)**
 - **Rəsmi Veb Portal:** 🌐 **[https://carboxmol.github.io](https://carboxmol.github.io)**
 
 ---
