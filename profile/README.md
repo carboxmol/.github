@@ -37,7 +37,7 @@
 ## 📚 Rəsmi Sənədləşmə Portalı (Read the Docs) / Official Documentation
 
 Rəsmi elmi və texniki sənədləşmə portalımız **Read the Docs** üzərində canlı yayımlanır:  
-👉 🌐 **[https://carboxmol.readthedocs.io/en/latest/](https://carboxmol.readthedocs.io/en/latest/)** *(və ya core kitabxana üçün: [https://carbox.readthedocs.io/en/latest/](https://carbox.readthedocs.io/en/latest/))*
+👉 🌐 **[https://carboxmol.readthedocs.io/en/latest/](https://carboxmol.readthedocs.io/en/latest/)** *(və ya core kitabxana üçün: [https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/))*
 
 ### 📖 Read the Docs Sənədləşmə Saytında Nələr Mövcuddur? / What is Available on the Docs Site?
 
