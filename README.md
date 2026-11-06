@@ -95,7 +95,7 @@ The Carbox and CarboxMol ecosystem is authored and maintained through internatio
 > **Structural Identification of Anomalous Carboxyl Protonation States, Low-Barrier Hydrogen Bonds, and Microenvironment Dielectric Shielding in High-Resolution Protein Crystal Structures**  
 > **Suleiman M. Hajizadeh** & **Garib N. Murshudov** (2026)  
 > *Carbox & CarboxMol Macromolecular Crystallography Suite*  
-> ORCID: [0000-0001-5795-177X](https://orcid.org/0000-0001-5795-177X) · [0000-0002-3909-0524](https://orcid.org/0000-0002-3909-0524)
+> ORCID: [0009-0003-7842-1921](https://orcid.org/0009-0003-7842-1921) · [0000-0002-3909-0524](https://orcid.org/0000-0002-3909-0524)
 
 ---
 
